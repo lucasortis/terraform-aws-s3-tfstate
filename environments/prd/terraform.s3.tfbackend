@@ -1,0 +1,5 @@
+bucket       = "lortis-ip9o982p-prd"
+key          = "s3-tfstate/terraform.tfstate"
+region       = "us-east-1"
+profile      = "personal"
+use_lockfile = true
