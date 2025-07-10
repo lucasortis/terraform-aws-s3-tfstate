@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # This script runs Terraform commands for a specified environment.
-# Usage: ./run-terraform.sh [-e=env|--env=env] [init|plan|apply]  
+# Usage: ./run-terraform.sh [-e=env|--env=env] [plan|apply]  
 
 rm -rf .terraform
 
